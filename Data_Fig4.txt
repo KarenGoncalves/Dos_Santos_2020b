@@ -1,0 +1,47 @@
+Sample	State	Pathway Name	Deregulated genes in pathways	Genes in Pathway	Percentage	Enrichment test pValue	pValue adjusted
+Mlp124466	Up	Biosynthesis of secondary metabolites	11	1231	0.01	0.000246954	0.033338739
+Mlp124256	Up	Ribosome	9	364	0.02	7.80E-08	1.05E-05
+Mlp124357	Up	Phenylpropanoid biosynthesis	5	177	0.03	3.31E-05	0.002234129
+Mlp124357	Up	Metabolic pathways	13	2323	0.01	0.000403211	0.018144513
+Mlp124357	Up	Circadian rhythm - plant	5	39	0.13	4.42E-09	5.96E-07
+Mlp123218	Up	Starch and sucrose metabolism	6	171	0.04	3.49E-05	0.004430135
+Mlp123218	Up	Metabolic pathways	18	2323	0.01	0.000281029	0.012646286
+Mlp123218	Up	Biosynthesis of secondary metabolites	13	1231	0.01	0.000623867	0.021055499
+Mlp124497	Up	Starch and sucrose metabolism	5	171	0.03	6.58E-05	0.002960058
+Mlp124497	Up	Biosynthesis of secondary metabolites	11	1231	0.01	0.000425997	0.014377404
+Mlp37347	Up	Biosynthesis of secondary metabolites	9	1231	0.01	0.000680994	0.045967077
+Mlp124466	Down	Metabolic pathways	12	2323	0.01	0.00091937	0.031028754
+Mlp124466	Down	MAPK signaling pathway - plant	5	139	0.04	6.17E-06	0.000832633
+Mlp124499	Down	Glutathione metabolism	5	103	0.05	0.000169162	0.007612291
+Mlp124499	Down	Metabolic pathways	24	2323	0.01	0.000230088	0.007765473
+Mlp124499	Down	Circadian rhythm - plant	5	39	0.13	6.12E-07	8.27E-05
+Mlp123227	Down	Starch and sucrose metabolism	7	171	0.04	3.16E-05	0.002134984
+Mlp123227	Down	Phenylpropanoid biosynthesis	5	177	0.03	0.001883232	0.044654113
+Mlp123227	Down	Metabolic pathways	23	2323	0.01	0.000155606	0.007002292
+Mlp123227	Down	Biosynthesis of secondary metabolites	19	1231	0.02	1.25E-05	0.001681579
+Mlp124256	Down	MAPK signaling pathway - plant	6	139	0.04	8.10E-05	0.005465005
+Mlp124256	Down	Plant-pathogen interaction	7	204	0.03	0.000128158	0.005767099
+Mlp124266	Down	Starch and sucrose metabolism	8	171	0.05	0.001533184	0.02956854
+Mlp124266	Down	Phenylpropanoid biosynthesis	10	177	0.06	0.000103944	0.003508125
+Mlp124266	Down	Metabolic pathways	50	2323	0.02	4.08E-08	5.50E-06
+Mlp124266	Down	Biosynthesis of secondary metabolites	35	1231	0.03	9.24E-07	4.16E-05
+Mlp124266	Down	Plant-pathogen interaction	14	204	0.07	5.60E-07	3.78E-05
+Mlp124518	Down	Glyoxylate and dicarboxylate metabolism	6	78	0.08	0.000248451	0.006708178
+Mlp124518	Down	Metabolic pathways	52	2323	0.02	3.26E-09	2.20E-07
+Mlp124518	Down	Biosynthesis of secondary metabolites	45	1231	0.04	8.81E-13	1.19E-10
+Mlp72983	Down	Glucosinolate biosynthesis	6	25	0.24	3.46E-07	1.56E-05
+Mlp72983	Down	Metabolic pathways	50	2323	0.02	5.95E-05	0.001607725
+Mlp72983	Down	Biosynthesis of secondary metabolites	36	1231	0.03	4.62E-05	0.001559424
+Mlp72983	Down	2-Oxocarboxylic acid metabolism	6	73	0.08	0.00050956	0.011465106
+Mlp72983	Down	MAPK signaling pathway - plant	13	139	0.09	3.39E-07	1.56E-05
+Mlp72983	Down	Plant-pathogen interaction	18	204	0.09	6.40E-09	8.63E-07
+Mlp123531	Down	MAPK signaling pathway - plant	11	139	0.08	7.69E-05	0.003458549
+Mlp123531	Down	Plant hormone signal transduction	23	289	0.08	1.69E-08	2.29E-06
+Mlp123531	Down	Plant-pathogen interaction	16	204	0.08	3.09E-06	0.000208819
+Mlp123531	Down	Circadian rhythm - plant	5	39	0.13	0.000262697	0.008866033
+Mlp124497	Down	MAPK signaling pathway - plant	8	139	0.06	0.000299059	0.013457652
+Mlp124497	Down	Plant hormone signal transduction	17	289	0.06	2.35E-07	3.18E-05
+Mlp124497	Down	Plant-pathogen interaction	12	204	0.06	1.28E-05	0.000864417
+Mlp37347	Down	MAPK signaling pathway - plant	12	139	0.09	4.98E-07	5.72E-05
+Mlp37347	Down	Plant hormone signal transduction	17	289	0.06	8.48E-07	5.72E-05
+Mlp37347	Down	Circadian rhythm - plant	5	39	0.13	4.83E-05	0.002172352

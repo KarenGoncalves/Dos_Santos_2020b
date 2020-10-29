@@ -1,0 +1,233 @@
+	Mlp124466	Mlp123227	Mlp123218	Mlp102036	Mlp106078	Mlp124499	Mlp124497	Mlp124518	Mlp37347	Mlp123531	Mlp72983	Mlp124357	Mlp124266	Mlp124256	Pathway name	Pathway ID
+AT1G44575	0	0	0	0	0	0	0	-2.024968504	0	0	0	0	0	0	Photosynthesis	path:ath00195
+AT3G01440	0	0	0	0	0	0	0	-2.709684845	0	0	0	0	-2.055092956	0	Photosynthesis	path:ath00195
+AT4G28660	0	0	0	0	0	0	0	-2.414480751	0	0	0	0	0	0	Photosynthesis	path:ath00195
+ATCG00280	0	0	0	0	0	0	0	0	-2.048653904	-2.333839902	0	0	0	0	Photosynthesis	path:ath00195
+ATCG00340	0	0	0	0	0	0	-2.924339852	0	-2.952533436	-2.992806267	0	0	0	0	Photosynthesis	path:ath00195
+ATCG00350	0	0	0	0	0	0	-2.820077265	0	-2.85185444	-2.923182658	0	0	0	0	Photosynthesis	path:ath00195
+ATCG00570	0	0	0	0	0	0	0	2.068696263	0	0	0	0	0	0	Photosynthesis	path:ath00195
+ATCG00600	0	0	0	0	0	0	0	2.025293896	0	0	0	0	0	0	Photosynthesis	path:ath00195
+ATCG00630	0	0	0	0	0	0	0	0	-2.031424868	-2.209694085	0	0	0	0	Photosynthesis	path:ath00195
+ATCG01060	0	0	0	0	0	0	0	2.735735558	0	0	0	0	0	0	Photosynthesis	path:ath00195
+AT1G10070	0	0	0	0	0	0	0	0	-2.02129621	-2.21375248	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT1G12010	0	0	-4.320240911	-4.146301512	0	0	0	0	0	-4.966028352	-4.366455688	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT1G50110	0	0	0	0	0	0	0	-2.136315801	0	0	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT1G55920	0	0	0	0	0	0	0	0	-2.335183803	-2.22358552	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT1G64660	0	0	0	0	0	0	-2.443191962	0	-3.233426534	-3.228545645	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT2G24850	0	-2.466760268	0	0	0	0	-2.03448612	0	0	0	-2.822692623	0	-2.794738961	-2.490137615	Cysteine and methionine metabolism	path:ath00270
+AT2G26400	0	-2.362609889	0	0	0	0	0	0	-2.036355381	0	-2.854977809	0	-2.590028973	0	Cysteine and methionine metabolism	path:ath00270
+AT3G03780	0	0	0	0	0	0	2.088068529	0	0	0	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT3G08860	0	0	0	0	0	0	3.138171921	2.348823409	2.121953641	2.198429158	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT3G19480	0	0	0	0	0	0	0	-2.795193372	0	0	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT3G22740	0	0	0	-2.032592724	0	0	0	0	0	0	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT4G08040	0	0	0	0	0	0	0	0	0	0	-2.144547978	0	-2.107184756	0	Cysteine and methionine metabolism	path:ath00270
+AT4G11280	2.274556361	0	0	0	0	0	0	0	0	0	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT4G26200	0	-2.642078909	0	0	0	-2.732428097	0	-2.125076732	0	0	-2.03539942	0	-2.103686545	-3.143538889	Cysteine and methionine metabolism	path:ath00270
+AT4G37770	0	0	0	0	0	0	-2.112806336	0	0	-2.327214629	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT5G15950	0	-2.496313865	0	0	0	0	-2.385114639	-3.232881441	-2.802630567	-2.432237442	0	0	-2.55695253	-2.13001921	Cysteine and methionine metabolism	path:ath00270
+AT5G53970	0	0	0	0	0	0	0	0	-2.183013551	-2.418956589	0	0	0	0	Cysteine and methionine metabolism	path:ath00270
+AT1G02920	0	0	0	0	0	0	0	0	0	-2.139924241	-2.120268808	0	0	0	Glutathione metabolism	path:ath00480
+AT1G09420	0	0	2.179185135	2.430647993	0	0	0	0	0	0	2.371687925	0	0	0	Glutathione metabolism	path:ath00480
+AT1G10370	0	0	0	0	0	0	0	-2.118460307	0	0	0	0	0	0	Glutathione metabolism	path:ath00480
+AT1G17180	0	0	0	0	3.341231648	0	0	0	0	0	0	0	0	0	Glutathione metabolism	path:ath00480
+AT1G19550	0	0	4.13463494	4.234675337	0	0	0	0	0	5.230992719	4.557226922	0	0	0	Glutathione metabolism	path:ath00480
+AT1G27130	0	0	0	0	0	0	0	0	0	0	-2.555935333	0	0	0	Glutathione metabolism	path:ath00480
+AT1G69930	0	0	0	0	0	-2.191095927	0	0	0	0	0	0	0	0	Glutathione metabolism	path:ath00480
+AT2G02930	0	0	0	0	0	0	-2.290093341	0	-2.209764427	-2.699688611	0	0	0	0	Glutathione metabolism	path:ath00480
+AT2G29460	-2.379197764	0	0	0	0	-2.221857207	-2.374825908	0	-2.707264538	-2.722738455	0	0	0	0	Glutathione metabolism	path:ath00480
+AT2G29470	-3.834432483	0	-3.175318321	-2.215379059	0	-3.127797565	-3.015697642	0	-3.301629288	-3.008284356	-2.840932535	0	0	-2.80309643	Glutathione metabolism	path:ath00480
+AT4G02520	0	0	0	0	0	0	0	0	0	-2.064407273	0	0	0	0	Glutathione metabolism	path:ath00480
+AT4G31870	0	-2.095851606	0	0	0	-2.04325845	0	-2.960994841	0	0	-2.411508576	0	-2.197741971	0	Glutathione metabolism	path:ath00480
+AT5G02780	-2.762926712	0	0	0	0	-2.50872162	-2.797882022	0	-2.904028356	-2.346071963	0	0	-2.056306387	-2.338698312	Glutathione metabolism	path:ath00480
+AT5G26220	0	0	0	0	0	0	0	0	0	0	-2.341962231	0	-2.035173017	0	Glutathione metabolism	path:ath00480
+AT1G26560	0	0	0	0	0	0	0	-2.382375728	0	0	-2.293689078	0	-2.183937938	0	Starch and sucrose metabolism	path:ath00500
+AT1G60270	0	-2.088841541	0	0	0	0	0	-2.314462416	0	0	0	0	-2.050808715	0	Starch and sucrose metabolism	path:ath00500
+AT1G65610	-2.246016486	0	0	0	0	-2.622415246	-2.512991524	0	0	0	0	0	-2.287871252	-2.086005359	Starch and sucrose metabolism	path:ath00500
+AT1G66270	2.449662426	0	0	0	0	0	0	0	0	0	2.090791213	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT1G66280	2.857533489	0	2.10059652	0	0	0	0	0	0	0	2.538580463	2.752320591	0	2.396424332	Starch and sucrose metabolism	path:ath00500
+AT2G22190	0	0	2.065775612	0	0	0	0	0	0	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT2G32290	0	-2.236536882	0	0	0	0	0	-2.052113251	0	0	0	0	-2.28240973	0	Starch and sucrose metabolism	path:ath00500
+AT3G13784	0	0	0	0	0	0	3.655682794	0	0	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT3G43190	0	0	2.460970432	0	0	0	0	0	0	2.168638531	0	2.052545811	0	0	Starch and sucrose metabolism	path:ath00500
+AT3G46970	0	0	2.161731989	0	0	2.605852269	2.509183936	0	0	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT3G47010	0	0	-3.559610784	-4.213799648	0	0	0	0	0	-4.666090747	-3.992298966	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT3G60120	-2.337131273	0	0	0	0	0	-2.712014142	0	-2.876163956	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT4G00490	0	0	0	0	0	0	0	-2.34138772	0	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT4G02280	0	0	0	0	0	0	2.119982683	0	0	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT4G09020	0	0	3.048077273	2.049425149	0	3.004395224	2.779202918	0	2.241754111	2.627853639	0	0	0	2.261101181	Starch and sucrose metabolism	path:ath00500
+AT4G10120	0	-2.761857606	0	0	0	0	0	-2.591884102	0	0	-2.71882528	0	-2.96792194	0	Starch and sucrose metabolism	path:ath00500
+AT4G15210	0	0	0	0	0	0	0	0	0	0	-2.140158987	0	-2.064272766	0	Starch and sucrose metabolism	path:ath00500
+AT4G17090	0	-2.32447791	0	0	-2.053077887	0	0	0	-2.315656013	0	-2.227536624	0	-2.325480648	0	Starch and sucrose metabolism	path:ath00500
+AT4G27820	0	-2.183481156	0	0	0	0	0	0	0	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT4G39770	0	0	0	0	0	0	0	0	0	-2.28432	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT5G10100	0	-2.056399619	0	0	0	0	0	0	0	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT5G11920	0	-2.21311956	0	0	0	0	0	0	0	0	-2.168768098	0	-2.61623771	0	Starch and sucrose metabolism	path:ath00500
+AT5G64860	0	0	2.082449413	0	0	2.226711494	2.386733599	0	2.172820837	2.208291116	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT5G65140	0	0	0	0	0	0	0	-2.197179496	0	0	0	0	0	0	Starch and sucrose metabolism	path:ath00500
+AT1G20620	0	0	0	0	0	0	0	2.303562217	0	0	0	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT1G70580	0	0	0	0	0	0	0	-2.151595393	0	0	0	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT3G21720	4.802972712	0	0	0	0	0	0	0	0	0	4.789388129	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT4G33010	0	0	0	0	0	0	0	-2.448307159	0	0	0	0	-2.042849377	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT4G37560	0	0	0	0	0	0	0	-2.001683942	0	-2.292988482	0	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT5G03860	2.14680246	0	0	0	0	0	0	0	0	0	2.815369554	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT5G04140	0	0	0	0	0	0	0	-2.346414947	0	0	0	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT5G36790	0	0	3.223924762	0	0	0	0	0	0	0	0	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT5G37600	0	0	0	0	0	0	0	0	0	0	0	0	-2.209094769	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT5G38420	0	0	0	0	0	0	0	-2.312841352	0	0	0	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT5G38430	0	0	0	0	0	0	0	-2.216339829	0	0	0	0	0	0	Glyoxylate and dicarboxylate metabolism	path:ath00630
+AT1G14540	0	-2.110658918	-2.172786189	0	-2.241040515	-3.536801545	-4.103532881	-2.952921435	-3.996817183	-3.568704854	-2.974585122	-2.894728013	-3.716440613	-3.139645237	Phenylpropanoid biosynthesis	path:ath00940
+AT1G26560	0	0	0	0	0	0	0	-2.382375728	0	0	-2.293689078	0	-2.183937938	0	Phenylpropanoid biosynthesis	path:ath00940
+AT1G49570	0	0	0	0	0	0	0	0	0	0	2.48904533	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT1G60270	0	-2.088841541	0	0	0	0	0	-2.314462416	0	0	0	0	-2.050808715	0	Phenylpropanoid biosynthesis	path:ath00940
+AT1G66270	2.449662426	0	0	0	0	0	0	0	0	0	2.090791213	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT1G66280	2.857533489	0	2.10059652	0	0	0	0	0	0	0	2.538580463	2.752320591	0	2.396424332	Phenylpropanoid biosynthesis	path:ath00940
+AT1G67980	-2.348118148	0	0	0	0	0	0	0	0	-2.434273352	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT1G68850	0	0	0	0	0	0	0	0	0	0	0	2.496220592	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT1G80820	0	0	-2.000663109	0	0	0	0	0	0	0	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT2G18150	0	0	0	0	0	0	2.354408294	0	2.937934721	0	0	2.480168853	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT2G37040	0	0	0	0	0	0	0	-2.076065272	0	0	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT2G37130	0	0	0	0	0	0	0	2.629017538	0	0	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT2G38380	0	0	0	0	0	0	0	0	2.868186581	0	0	2.247742117	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT2G38390	0	0	0	0	0	0	0	2.525242439	2.566430705	0	0	2.584008145	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT2G41480	0	-2.475058391	0	0	0	0	0	0	0	0	0	0	-2.299296617	0	Phenylpropanoid biosynthesis	path:ath00940
+AT3G13610	0	0	0	0	0	0	-2.388308801	0	-2.533391774	0	-2.240216605	-2.252590259	-2.406644924	-2.21580006	Phenylpropanoid biosynthesis	path:ath00940
+AT3G19450	0	0	0	0	0	0	0	-2.50313393	0	0	0	0	-2.043981064	0	Phenylpropanoid biosynthesis	path:ath00940
+AT3G21230	0	-2.545831631	0	0	0	0	0	0	0	0	-2.233847413	0	-2.573144304	0	Phenylpropanoid biosynthesis	path:ath00940
+AT3G32980	0	0	0	0	0	0	0	2.034218213	0	0	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT3G47010	0	0	-3.559610784	-4.213799648	0	0	0	0	0	-4.666090747	-3.992298966	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT3G60120	-2.337131273	0	0	0	0	0	-2.712014142	0	-2.876163956	0	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT4G08770	0	0	0	0	0	-2.102563144	0	0	-2.166250372	0	-2.435557674	0	-2.272553336	0	Phenylpropanoid biosynthesis	path:ath00940
+AT4G27820	0	-2.183481156	0	0	0	0	0	0	0	0	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT4G37530	0	0	0	0	0	-2.228782226	0	0	0	0	-2.137701038	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT4G37990	-2.545643075	0	0	0	0	0	0	0	-2.12877341	-2.209534789	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT5G06730	0	0	0	-2.23490296	0	-2.286345463	0	0	0	0	0	0	-2.177992685	0	Phenylpropanoid biosynthesis	path:ath00940
+AT5G19880	0	0	0	0	0	0	0	0	0	0	-2.758600839	-2.054395483	-2.359202999	-2.210757147	Phenylpropanoid biosynthesis	path:ath00940
+AT5G39580	0	0	0	0	0	0	-2.088164175	0	0	-2.332357892	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT5G42180	2.260593676	0	0	0	0	0	0	0	0	0	0	0	0	0	Phenylpropanoid biosynthesis	path:ath00940
+AT3G44590	0	0	0	-2.426459233	0	0	0	0	0	0	0	0	0	0	Ribosome	path:ath03010
+ATCG00050	0	0	0	0	0	0	0	2.046530799	0	0	0	0	0	0	Ribosome	path:ath03010
+ATCG00160	0	0	0	0	0	0	-2.404428887	0	-2.335980508	-3.103533306	0	0	0	0	Ribosome	path:ath03010
+ATCG00330	0	0	0	0	0	0	-2.523022895	0	-2.685864059	-2.701534466	0	0	0	0	Ribosome	path:ath03010
+ATCG00380	0	0	0	0	0	0	0	2.367456819	0	0	0	0	0	0	Ribosome	path:ath03010
+ATCG00650	0	0	0	0	0	0	0	2.356887668	0	0	0	0	0	2.027040176	Ribosome	path:ath03010
+ATCG00760	0	0	0	0	0	0	0	0	0	0	0	0	0	2.769043472	Ribosome	path:ath03010
+ATCG00770	0	0	0	0	0	0	0	0	0	0	0	0	0	2.869616876	Ribosome	path:ath03010
+ATCG00790	0	0	0	0	2.295103883	0	0	2.143778108	0	0	0	0	0	3.2374383	Ribosome	path:ath03010
+ATCG00820	0	0	0	0	2.171181461	0	0	0	0	0	0	0	0	3.066049211	Ribosome	path:ath03010
+ATCG00830	0	0	0	0	0	0	0	0	0	0	0	0	0	2.352100895	Ribosome	path:ath03010
+ATCG00840	0	0	0	0	0	0	0	0	0	0	0	0	0	2.404479216	Ribosome	path:ath03010
+ATCG01020	0	0	0	0	0	0	0	2.064624173	0	0	0	0	0	2.455510853	Ribosome	path:ath03010
+ATCG01120	0	0	0	0	0	0	0	0	0	0	0	0	0	2.434061938	Ribosome	path:ath03010
+ATMG00080	0	0	0	0	-2.020097356	0	0	0	-2.164046233	-2.268817114	0	0	0	0	Ribosome	path:ath03010
+AT1G04310	-2.41357169	0	0	0	0	0	-2.769316822	0	-2.902129069	-3.292209037	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT1G20620	0	0	0	0	0	0	0	2.303562217	0	0	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT1G54960	0	0	0	0	0	0	0	-2.085602794	0	0	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT1G72770	0	0	0	0	0	0	0	0	-2.313914842	-2.39413618	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT1G73500	0	0	0	0	0	0	0	0	0	0	-2.126508888	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT1G78290	0	0	-2.227055027	0	0	0	-2.625165905	0	-2.641914764	-3.128769475	-2.098834565	0	0	-2.350528275	MAPK signaling pathway - plant	path:ath04016
+AT2G14610	0	0	0	0	0	0	0	0	0	0	-2.298412664	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT2G19190	-3.38133397	0	0	0	0	0	-2.394755221	0	-2.625589699	-2.80465884	-2.273069981	-2.35232686	-2.892520102	-2.34132505	MAPK signaling pathway - plant	path:ath04016
+AT2G23030	0	0	0	0	0	0	0	2.200638902	0	0	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT2G26020	0	0	-2.133516393	-2.632013856	0	0	-2.08112937	0	-3.066031677	-2.917394248	-2.789561296	0	-2.014479615	-2.242780883	MAPK signaling pathway - plant	path:ath04016
+AT2G26040	0	0	0	0	0	0	0	0	0	0	-2.029216558	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT2G38310	0	0	0	0	0	-2.106443407	0	0	0	0	-2.31935517	0	-2.331989478	0	MAPK signaling pathway - plant	path:ath04016
+AT2G38470	0	0	0	0	0	0	-2.94231076	0	-2.658332772	-2.890325819	-2.148002068	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT2G41090	0	0	0	0	0	0	0	0	0	0	-2.163196004	0	-2.254885549	0	MAPK signaling pathway - plant	path:ath04016
+AT3G23150	-2.318164728	0	0	0	0	0	0	0	0	0	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT3G23240	0	0	0	0	0	0	-3.223657735	0	-2.758669862	-2.881732426	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT3G25250	0	0	0	0	0	-2.098717351	0	0	0	0	0	0	0	-2.060053391	MAPK signaling pathway - plant	path:ath04016
+AT3G26830	-2.437601701	0	0	0	0	0	-2.376545384	0	-2.693743657	0	-2.293288957	0	0	-2.166534482	MAPK signaling pathway - plant	path:ath04016
+AT3G45640	0	0	0	0	0	0	0	0	0	-2.031335092	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT4G01026	0	0	0	0	0	0	0	0	0	0	0	0	2.051702066	0	MAPK signaling pathway - plant	path:ath04016
+AT4G11280	2.274556361	0	0	0	0	0	0	0	0	0	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT5G24770	0	0	0	0	0	0	2.077754118	0	2.265115049	0	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT5G44420	-2.020120483	-2.513840193	0	-2.504880701	0	0	0	0	-2.839114792	0	-2.954905606	0	-2.573913808	-2.407066332	MAPK signaling pathway - plant	path:ath04016
+AT5G44430	0	0	0	-2.128453112	0	0	0	0	-2.235849632	0	-2.137310717	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT5G47910	0	0	0	0	0	0	0	0	0	0	-2.026360888	0	-2.239444767	0	MAPK signaling pathway - plant	path:ath04016
+AT5G49480	0	0	0	0	0	-3.114882222	0	-2.299565596	-2.098802372	-2.01460085	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT5G51060	0	0	0	0	0	-2.187050839	0	-2.009849652	0	-2.079814268	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT5G63650	0	0	0	0	0	0	-2.56767989	0	-2.283003602	-2.83659361	0	0	0	0	MAPK signaling pathway - plant	path:ath04016
+AT1G04240	0	0	0	0	0	0	0	0	0	-2.090060031	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G04310	-2.41357169	0	0	0	0	0	-2.769316822	0	-2.902129069	-3.292209037	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G15050	0	0	0	2.196179995	0	0	0	0	0	0	2.090891279	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G15580	0	0	0	0	0	0	0	-2.251186897	0	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G17380	0	0	0	0	0	0	-2.010030605	0	0	-2.044471596	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G19050	0	0	0	0	0	0	0	0	0	0	0	0	2.290935005	0	Plant hormone signal transduction	path:ath04075
+AT1G19180	0	0	0	0	0	0	-2.218992219	0	0	-2.235125004	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G49720	0	0	2.289066311	0	0	2.547717361	0	0	0	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G52830	0	0	0	0	0	0	-2.612518598	0	-3.157299535	-2.831531475	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G72770	0	0	0	0	0	0	0	0	-2.313914842	-2.39413618	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G75590	0	0	0	0	0	0	-2.870704581	0	-2.811699743	-2.610255422	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G78290	0	0	-2.227055027	0	0	0	-2.625165905	0	-2.641914764	-3.128769475	-2.098834565	0	0	-2.350528275	Plant hormone signal transduction	path:ath04075
+AT2G01200	0	0	0	0	0	2.211030648	0	0	0	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT2G14610	0	0	0	0	0	0	0	0	0	0	-2.298412664	0	0	0	Plant hormone signal transduction	path:ath04075
+AT2G23030	0	0	0	0	0	0	0	2.200638902	0	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT2G23170	0	0	0	0	0	0	0	0	-2.046852009	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT2G26040	0	0	0	0	0	0	0	0	0	0	-2.029216558	0	0	0	Plant hormone signal transduction	path:ath04075
+AT2G36270	0	0	0	0	0	2.201123574	0	0	0	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT2G38310	0	0	0	0	0	-2.106443407	0	0	0	0	-2.31935517	0	-2.331989478	0	Plant hormone signal transduction	path:ath04075
+AT2G41070	0	0	0	0	0	0	-2.190868038	0	-2.223402141	-2.184855258	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT2G46990	0	0	0	0	0	0	0	0	0	-2.348531294	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT2G47750	0	0	0	0	0	0	0	-2.047890189	0	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT3G15540	0	0	0	0	0	0	-2.75906469	0	-2.954710006	-2.606391291	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT3G16360	2.002922411	0	2.045199583	0	0	0	0	0	0	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT3G23030	0	0	0	0	0	0	0	0	0	-2.180348059	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT3G23050	0	0	0	0	0	0	-2.013514114	0	-2.063218893	-2.16066469	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT3G23150	-2.318164728	0	0	0	0	0	0	0	0	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT3G23240	0	0	0	0	0	0	-3.223657735	0	-2.758669862	-2.881732426	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT3G62100	0	0	0	0	0	0	-2.133221843	0	-2.294102167	0	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT4G01026	0	0	0	0	0	0	0	0	0	0	0	0	2.051702066	0	Plant hormone signal transduction	path:ath04075
+AT4G26120	0	0	0	0	0	0	-3.158654218	0	-3.184651657	-3.251262135	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT4G27260	0	0	0	0	0	0	-2.132074022	0	-2.265890465	-2.638179931	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT4G32280	0	0	0	0	0	0	-2.046162654	0	-2.394821157	-2.404362673	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT4G36110	0	0	0	0	0	0	0	0	0	-2.01628103	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT5G13320	0	-2.359023105	0	0	0	-2.554311746	-2.57099475	-2.455477379	-2.894826984	-2.071794481	-2.995098176	-2.000344781	-3.211464206	-2.713955908	Plant hormone signal transduction	path:ath04075
+AT5G18020	0	0	0	0	0	0	0	0	0	-2.070009049	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT5G18050	0	0	0	0	0	0	-2.026949192	0	-2.392734679	-2.394543863	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT5G18060	0	0	0	0	0	0	0	0	0	-2.114234623	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT5G47220	0	0	0	0	0	0	0	0	0	0	-2.263352345	0	0	0	Plant hormone signal transduction	path:ath04075
+AT5G62920	0	0	0	0	0	0	0	0	0	0	2.144894784	0	2.703255887	0	Plant hormone signal transduction	path:ath04075
+AT5G63650	0	0	0	0	0	0	-2.56767989	0	-2.283003602	-2.83659361	0	0	0	0	Plant hormone signal transduction	path:ath04075
+AT1G01340	0	0	0	0	0	0	-2.800727456	0	-2.592091655	-2.611766039	-2.82559709	0	-2.373980093	0	Plant-pathogen interaction	path:ath04626
+AT1G21550	0	0	0	0	0	0	0	0	0	-2.024019249	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT1G66400	2.13756239	0	0	0	0	0	0	0	0	0	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT2G04030	0	0	0	0	0	0	0	-2.275229226	0	0	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT2G13790	0	0	0	0	0	0	0	0	0	0	-2.043737442	0	0	0	Plant-pathogen interaction	path:ath04626
+AT2G14610	0	0	0	0	0	0	0	0	0	0	-2.298412664	0	0	0	Plant-pathogen interaction	path:ath04626
+AT2G15090	0	0	0	0	0	2.015102844	0	0	0	0	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT2G19190	-3.38133397	0	0	0	0	0	-2.394755221	0	-2.625589699	-2.80465884	-2.273069981	-2.35232686	-2.892520102	-2.34132505	Plant-pathogen interaction	path:ath04626
+AT2G38470	0	0	0	0	0	0	-2.94231076	0	-2.658332772	-2.890325819	-2.148002068	0	0	0	Plant-pathogen interaction	path:ath04626
+AT2G41090	0	0	0	0	0	0	0	0	0	0	-2.163196004	0	-2.254885549	0	Plant-pathogen interaction	path:ath04626
+AT2G41100	0	0	0	0	0	0	0	0	0	-2.164015692	-2.006109778	0	0	0	Plant-pathogen interaction	path:ath04626
+AT2G46430	0	0	0	0	0	0	0	0	0	0	-2.664322194	0	-2.136641341	0	Plant-pathogen interaction	path:ath04626
+AT2G46440	0	-2.172618785	0	0	0	0	0	0	0	0	-2.663156808	0	-2.503258163	0	Plant-pathogen interaction	path:ath04626
+AT2G46450	0	-2.244795523	0	0	0	0	0	-2.520963344	0	0	-2.20928809	0	-2.607265051	0	Plant-pathogen interaction	path:ath04626
+AT3G01830	0	-2.080430005	0	0	0	-2.064643823	-2.971263716	0	-2.370342385	-2.238135527	-2.786327646	0	-2.994157209	-3.060813039	Plant-pathogen interaction	path:ath04626
+AT3G10280	0	0	2.079155364	0	0	0	0	0	0	0	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT3G17690	0	0	0	0	0	0	-2.660429735	-2.18333557	0	-2.32557572	-2.21948431	0	-2.447113395	-2.164860807	Plant-pathogen interaction	path:ath04626
+AT3G45640	0	0	0	0	0	0	0	0	0	-2.031335092	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT3G47480	0	0	0	0	0	0	-2.22816591	0	-2.195495581	0	-2.171040414	0	-2.672230167	-2.058546549	Plant-pathogen interaction	path:ath04626
+AT3G48080	0	0	-4.377255148	-4.432070129	0	0	-2.121676157	0	0	-4.696298186	-4.43246827	0	-2.3054722	0	Plant-pathogen interaction	path:ath04626
+AT3G50770	0	0	0	0	0	0	-2.526173591	0	-2.478704108	-2.550664193	-3.125631277	0	-3.144188126	-2.152864029	Plant-pathogen interaction	path:ath04626
+AT4G01010	0	0	0	0	0	0	-2.406498496	0	0	-2.147567904	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT4G14640	0	0	0	0	0	0	-2.028814612	0	0	-2.439588275	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT4G20780	0	0	0	0	0	-2.92597051	0	0	0	0	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT4G39090	0	0	0	0	0	0	0	2.335944216	0	0	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT5G42380	0	-2.356181447	-2.280334862	-2.064365305	0	-2.590626151	-3.48447946	-2.249076037	-3.042623749	-3.430916881	-2.423774681	0	-2.831078879	-3.129753968	Plant-pathogen interaction	path:ath04626
+AT5G47910	0	0	0	0	0	0	0	0	0	0	-2.026360888	0	-2.239444767	0	Plant-pathogen interaction	path:ath04626
+AT5G49480	0	0	0	0	0	-3.114882222	0	-2.299565596	-2.098802372	-2.01460085	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT5G51060	0	0	0	0	0	-2.187050839	0	-2.009849652	0	-2.079814268	0	0	0	0	Plant-pathogen interaction	path:ath04626
+AT5G52640	0	-2.388896854	0	-2.108998032	0	0	-2.195345342	-2.314509311	-2.343217052	-2.843610784	-2.386633694	0	-2.440161206	-2.082392803	Plant-pathogen interaction	path:ath04626
+AT1G01060	0	0	-3.208810273	0	-2.127720212	-2.278878293	-3.991386168	-2.524379546	-3.776479685	-3.836168138	-2.20660277	0	-2.553035476	-2.963984477	Circadian rhythm - plant	path:ath04712
+AT1G22770	0	0	0	0	0	2.225370397	0	2.302814917	0	0	2.023628659	2.239315617	2.180373085	0	Circadian rhythm - plant	path:ath04712
+AT1G65480	0	-2.190800222	0	0	0	-2.307451697	0	0	0	0	-2.256721787	0	-2.448259785	0	Circadian rhythm - plant	path:ath04712
+AT1G68050	0	0	2.123255692	0	0	2.62678271	2.084287237	2.580465601	0	0	0	2.745800526	2.617283197	2.183567769	Circadian rhythm - plant	path:ath04712
+AT2G46830	0	0	-3.083243754	0	0	-2.323601522	-2.622052229	0	-2.761774905	-3.23588363	0	0	0	-2.227246918	Circadian rhythm - plant	path:ath04712
+AT3G17609	0	-2.549462566	-2.952701484	-2.860291137	-2.00342081	-3.520632036	-3.258779158	-3.707810999	-3.882667018	-3.928861163	-2.576864794	0	-2.708947604	-2.728327893	Circadian rhythm - plant	path:ath04712
+AT5G11260	0	0	0	0	0	0	0	0	-2.090729228	-2.357409994	0	0	0	0	Circadian rhythm - plant	path:ath04712
+AT5G23730	0	0	-2.058167943	0	0	-2.106334271	0	-2.204556506	0	0	0	0	-2.164432622	-2.042757414	Circadian rhythm - plant	path:ath04712
+AT5G24470	0	3.010566362	2.887545582	3.05416761	2.697392621	2.933398385	3.070457499	3.347337417	2.547298423	2.758215445	3.018382841	3.451694265	3.73351392	2.97420037	Circadian rhythm - plant	path:ath04712
+AT5G52250	0	0	0	0	0	0	0	0	0	-2.017813614	0	0	0	0	Circadian rhythm - plant	path:ath04712
+AT5G60100	0	2.586879148	3.83524406	3.489960984	2.007061928	3.310469818	2.32904864	3.375775008	0	2.943652258	3.228949133	3.494221871	3.258845487	2.777651494	Circadian rhythm - plant	path:ath04712
+AT5G61380	0	0	0	0	0	0	0	0	0	0	0	2.015059134	0	0	Circadian rhythm - plant	path:ath04712
+AT5G62430	0	0	0	0	0	0	0	0	-2.201748679	0	0	0	0	0	Circadian rhythm - plant	path:ath04712
